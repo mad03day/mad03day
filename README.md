@@ -16,15 +16,16 @@
 
 <h2> Wellcome </h2>
  <ul>
-  <li>Hi, I'm Michael, CS student and self-taught programmer.</li>
-  <li>Currency learning C++, Verilog, STM32 and periphery.</li>
-  <li>In my free time, I enjoy game development and guitar playing.</li>
+  <li>Hi, I'm Michael, Hardware designer.</li>
+  <li></li>
+  <li></li>
 </ul> 
 
 
 <h2> GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=mad03day&show_icons=true&hide_border=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad03day&show_icons=true&hide_border=true&layout=compact&cache_seconds=7200&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad03day&hide=javascript,css,scss,html&theme=tokyonight">
 
 <h2> Get in touch </h2>
 <p> 
