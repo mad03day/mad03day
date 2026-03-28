@@ -17,8 +17,6 @@
 <h2> Wellcome </h2>
  <ul>
   <li>Hi, I'm Michael, Hardware designer.</li>
-  <li></li>
-  <li></li>
 </ul> 
 
 
